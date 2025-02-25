@@ -26,7 +26,7 @@ Hi there! I'm Eunju Park. I am passionate about artificial intelligence and its 
   <span style="color:MediumBlue">**E.-j. Park**</span>, T. Kim, M. Kim, H. Lee, G.-j. Lee
   <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review) | [[code]](https://github.com/pej0918/Robust-AV-Classification)
 
-# 💡Research Projects 
+# 💡 Research Projects 
 - *2024.11 - 2025.01* : Robust Audio-Visual Classification with Learnable Prompts for Noisy and Uncertain Modalities [[code](https://github.com/pej0918/Robust-AV-Classification)] 
 - *2024.07 - 2024.10* : Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning
   <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036323)]
@@ -38,7 +38,7 @@ Hi there! I'm Eunju Park. I am passionate about artificial intelligence and its 
 - *2023.05*, **Grand Prize**, ACK 2023, for the Braille Translation and Document Summarization System
   
 # 📖 Educations
-- *202.03 - 2025.02* , **Ewha Womans University**, Bachelor of Mathematics and Computer Science
+- *2020.03 - 2025.02* , **Ewha Womans University**, Bachelor of Mathematics and Computer Science
 
 # 💻 Internships
 - *2024.07 - 2024.08*, Language Intelligence Lab @ [ETRI](https://www.etri.re.kr/eng/main/main.etri)
