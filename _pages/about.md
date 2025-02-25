@@ -26,20 +26,16 @@ My research interest includes neural machine translation and computer vision. I 
 - to be updated..
 
 # 📝 Publications 
+- #### SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection** 
+  <span style="color:MediumBlue">**E.-j. Park**</span>, T. Kim, M. Kim, H. Lee, G.-j. Lee
+  <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review) 
+  [[code]](https://github.com/pej0918/Robust-AV-Classification)   
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 💡Research Projects 
+- *2024.11 - 2024.01* : Uncertain Missing Modality Audio-Visual Classification Framework [[code](https://github.com/pej0918/Robust-AV-Classification)] 
+- *2024.04 - 2024.10* :  SK-RD4AD : Skip-Connected Reverse Distillation For Robust One-Class Anomaly Detection[[code](https://github.com/pej0918/SK-RD4AD)]
+- *2024.07 - 2024.10* : Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)]
+- *2024.05 - 2024.08* :Enhancing Q-Former for Visual Question Answering with Multi-layer Co-Attention and Question-Aware Prompts [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] 
 
 # 🎖 Honors and Awards
 - *2023.11*, **Silver Award**, 2023 Hanium ICT Mentoring, for the Braille Translation and Document Summarization System 
