@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Eunju Park"
-  avatar           : "assets/eunjupark.jpg"
+  avatar           : "https://github.com/pej0918/pej0918.github.io/assets/eunjupark.jpg"
   bio              : "Ewha Womans University"
   location         : "Seoul, Korea"
   employer         :
