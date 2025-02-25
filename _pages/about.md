@@ -34,7 +34,7 @@ Hi there! I'm Eunju Park. I am passionate about artificial intelligence and its 
 - *2024.05 - 2024.08* : Enhancing Q-Former for Visual Question Answering with Multi-layer Co-Attention and Question-Aware Prompts
   <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)]
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2023.11*, **Silver Award**, 2023 Hanium ICT Mentoring, for the Braille Translation and Document Summarization System 
 - *2023.05*, **Grand Prize**, ACK 2023, for the Braille Translation and Document Summarization System
   
