@@ -26,7 +26,6 @@ Hi there! I'm Eunju Park. I am passionate about artificial intelligence and its 
   <span style="color:MediumBlue">**E.-j. Park**</span>, T. Kim, M. Kim, H. Lee, G.-j. Lee
   <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review) | [[code]](https://github.com/pej0918/Robust-AV-Classification)
 
-
 # 💡Research Projects 
 - *2024.11 - 2024.01* : Robust Audio-Visual Classification with Learnable Prompts for Noisy and Uncertain Modalities [[code](https://github.com/pej0918/Robust-AV-Classification)] 
 - *2024.07 - 2024.10* : Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning | [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036323)]
