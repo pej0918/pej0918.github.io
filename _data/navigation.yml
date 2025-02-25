@@ -6,10 +6,10 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
+  - title: "Publications & Research"
     url: "/#-publications"
 
-  - title: "Research Projects"
+  # - title: "Research Projects"
     # url: "/#-invited-talks"
 
   - title: "Honors and Awards"
