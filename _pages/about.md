@@ -27,7 +27,7 @@ Hi there! I'm Eunju Park. I am passionate about artificial intelligence and its 
   <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review) | [[code]](https://github.com/pej0918/Robust-AV-Classification)
 
 # 💬 Research Projects 
-- *2024.11 - 2025.01* : Robust Audio-Visual Classification under Uncertain Missing Modality using Prompt Learning [[code](https://github.com/pej0918/Robust-AV-Classification)] 
+- *2024.11 - 2025.01* : Robust Audio-Visual Classification End-to-End Framework under Uncertain Missing Modality using Prompt Learning [[code](https://github.com/pej0918/Robust-AV-Classification)] 
 - *2024.07 - 2024.10* : Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning
   <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036323)]
 - *2024.05 - 2024.08* : Enhancing Q-Former for Visual Question Answering with Multi-layer Co-Attention and Question-Aware Prompts
