@@ -28,8 +28,10 @@ Hi there! I'm Eunju Park. I am passionate about artificial intelligence and its 
 
 # 💡Research Projects 
 - *2024.11 - 2024.01* : Robust Audio-Visual Classification with Learnable Prompts for Noisy and Uncertain Modalities [[code](https://github.com/pej0918/Robust-AV-Classification)] 
-- *2024.07 - 2024.10* : Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning | [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036323)]
-- *2024.05 - 2024.08* : Enhancing Q-Former for Visual Question Answering with Multi-layer Co-Attention and Question-Aware Prompts | [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)]
+- *2024.07 - 2024.10* : Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning
+  <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036323)]
+- *2024.05 - 2024.08* : Enhancing Q-Former for Visual Question Answering with Multi-layer Co-Attention and Question-Aware Prompts
+  <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)]
 
 # 🎖 Honors and Awards
 - *2023.11*, **Silver Award**, 2023 Hanium ICT Mentoring, for the Braille Translation and Document Summarization System 
