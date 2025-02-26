@@ -27,6 +27,7 @@ Hi there! I'm Eunju Park. I am passionate about artificial intelligence and its 
 - *2024.10* : &nbsp;🎉🎉 "Enhancing Knowledge-based Visual Question Answering Performance through Multilayer Co-Attention and Question-Aware Prompt" 
   - Presented as a **poster** at the **IEIE Autumn Conference 2024**.
   - **Published** in the **conference proceedings**.
+- *2023.11*: &nbsp;🎉🎉 **Silver Award** at **2023 Hanium ICT Mentoring** for the project **AI Braille English-Korean Translator**
 
 # 📝 Publications 
 - #### SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection 
