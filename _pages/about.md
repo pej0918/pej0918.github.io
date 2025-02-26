@@ -19,11 +19,11 @@ redirect_from:
 Hi there! I'm Eunju Park. I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively. My research interests include <Strong>Multimodal Learning, Anomaly Detection, Computer Vision, Natural Language Processing, and Generative Models</Strong>. I hold a Bachelor's degree in Mathematics and Computer Science from [Ewha Womans University](https://www.ewha.ac.kr/ewha/index.do) and am preparing to enter graduate school in the second half of 2025. 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 "SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection" is **under review** at **CVPR Workshop 2025**.
-- *2024.10*: &nbsp;🎉🎉 "An Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning" 
+- *2025.02* : &nbsp;🎉🎉 "SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection" is **under review** at **CVPR Workshop 2025**.
+- *2024.10* : &nbsp;🎉🎉 "An Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning" 
   - Presented as a **poster** at the **IEIE Autumn Conference 2024**.
   - **Published** in the **conference proceedings**.
-- *2024.10*: &nbsp;🎉🎉 "Enhancing Knowledge-based Visual Question Answering Performance through Multilayer Co-Attention and Question-Aware Prompt" 
+- *2024.10* : &nbsp;🎉🎉 "Enhancing Knowledge-based Visual Question Answering Performance through Multilayer Co-Attention and Question-Aware Prompt" 
   - Presented as a **poster** at the **IEIE Autumn Conference 2024**.
   - **Published** in the **conference proceedings**.
 
