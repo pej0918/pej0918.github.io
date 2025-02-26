@@ -42,8 +42,10 @@ Hi there! I'm Eunju Park. I am passionate about artificial intelligence and its 
   <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)]
 
 # 🏆 Honors and Awards
-- *2023.11*, **Silver Award**, 2023 Hanium ICT Mentoring, for the Braille Translation and Document Summarization System 
-- *2023.05*, **Grand Prize**, ACK 2023, for the Braille Translation and Document Summarization System
+- *2023.11*, **Silver Award**, 2023 Hanium ICT Mentoring, for "AI Braille English-Korean Translator"
+  <br> [[code](https://github.com/pej0918/E-yes)] | [[video](https://youtu.be/nr0ZrB_GpGo?si=oWqlMCBNwgyu7U2V)]
+- *2023.10*, **Grand Prize**, Korean Information Processing Society Conference (ACK 2023), for "Development of a Braille Translation and Document Summarization System for the Visually Impaired Education"
+  <br> [[paper](https://koreascience.kr/article/CFKO202333855044754.page)]
   
 # 📖 Educations
 - *2020.03 - 2025.02* , **Ewha Womans University**, Bachelor of Mathematics and Computer Science
