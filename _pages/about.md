@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 Hi there! I'm Eunju Park. I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively. My research interests include <Strong>Multimodal Learning, Anomaly Detection, Computer Vision, Natural Language Processing, and Generative Models</Strong>. I hold a Bachelor's degree in Mathematics and Computer Science from [Ewha Womans University](https://www.ewha.ac.kr/ewha/index.do) and am preparing to enter graduate school in the second half of 2025. 
+<br>
 <br> 📄 **[Download My CV](https://pej0918.github.io/assets/EunJuPark_CV.pdf)** (Update on 25.02)
 
 # 🔥 News
@@ -40,8 +41,10 @@ Hi there! I'm Eunju Park. I am passionate about artificial intelligence and its 
   <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)]
 
 # 🏆 Honors and Awards
-- *2023.11*, **Silver Award**, 2023 Hanium ICT Mentoring, for "AI Braille English-Korean Translator" | [[code](https://github.com/pej0918/E-yes)] | [[video](https://youtu.be/nr0ZrB_GpGo?si=oWqlMCBNwgyu7U2V)]
-- *2023.10*, **Grand Prize**, Korean Information Processing Society Conference (ACK 2023), for "Development of a Braille Translation and Document Summarization System for the Visually Impaired Education" | [[paper](https://koreascience.kr/article/CFKO202333855044754.page)]
+- *2023.11*, **Silver Award**, 2023 Hanium ICT Mentoring, for "AI Braille English-Korean Translator"
+  <br> [[code](https://github.com/pej0918/E-yes)] | [[video](https://youtu.be/nr0ZrB_GpGo?si=oWqlMCBNwgyu7U2V)]
+- *2023.10*, **Grand Prize**, Korean Information Processing Society Conference (ACK 2023), for "Development of a Braille Translation and Document Summarization System for the Visually Impaired Education"
+  <br> [[paper](https://koreascience.kr/article/CFKO202333855044754.page)]
   
 # 📖 Educations
 - *2020.03 - 2025.02* , **Ewha Womans University**, Bachelor of Mathematics and Computer Science
