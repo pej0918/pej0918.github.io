@@ -20,11 +20,10 @@ Hi there! I'm Eunju Park. I am passionate about artificial intelligence and its 
 <br> 📄 **[Download My CV](https://pej0918.github.io/assets/EunJuPark_CV.pdf)** (Update on 25.02)
 
 # 🔥 News
-- *2025.02* : &nbsp;🎉🎉 "SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection" is **under review** at **CVPR Workshop 2025**.
+- *2025.02* : &nbsp;🎉🎉 **"SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection"** is **under review** at **CVPR Workshop 2025**.
 - *2024.10* : &nbsp;🎉🎉 Two papers are accepted at **IEIE Autumn Conference 2024**:
   - "An Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning"
   - "Enhancing Knowledge-based Visual Question Answering Performance through Multilayer Co-Attention and Question-Aware Prompt"  
-  - Both were presented as **posters** and **published** in the **conference proceedings**.
 - *2023.11* : &nbsp;🎉🎉 **Silver Award** at **2023 Hanium ICT Mentoring** for the project **"AI Braille English-Korean Translator"**.
 
 # 📝 Publications 
