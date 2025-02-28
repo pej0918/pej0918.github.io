@@ -36,9 +36,9 @@ Hi there! I'm Eunju Park. I am passionate about artificial intelligence and its 
 - *2024.11 - 2025.01* : Robust Audio-Visual Classification End-to-End Framework under Uncertain Missing Modality using Prompt Learning
   <br> [[code](https://github.com/pej0918/Robust-AV-Classification)] 
 - *2024.07 - 2024.10* : Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning
-  <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036323)]
+  <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036323)] | [[poster](https://pej0918.github.io/assets/Posters/IF_포스터.pdf)
 - *2024.05 - 2024.08* : Enhancing Q-Former for Visual Question Answering with Multi-layer Co-Attention and Question-Aware Prompts
-  <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)]
+  <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)] | [[poster](https://pej0918.github.io/assets/Posters/멀바_포스터.pdf)
 
 # 🏆 Honors and Awards
 - *2023.11*, **Silver Award**, 2023 Hanium ICT Mentoring, for "AI Braille English-Korean Translator"
