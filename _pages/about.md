@@ -16,16 +16,17 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there! I'm Eunju Park. I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively. My research interests include <Strong>Multimodal Learning, Anomaly Detection, Computer Vision, Natural Language Processing, and Generative Models</Strong>. I hold a Bachelor's degree in Mathematics and Computer Science from [Ewha Womans University](https://www.ewha.ac.kr/ewha/index.do) and am preparing to enter graduate school in the second half of 2025. 
+Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer Science from [Ewha Womans University](https://www.ewha.ac.kr/ewha/index.do) and am preparing to enter graduate school in the second half of 2025.
+<br>I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively. My research interests include <Strong>Multimodal Learning, Anomaly Detection, Computer Vision, Natural Language Processing, and Generative Models</Strong>. 
 <br>
-<br> 📄 **[Download My CV](https://pej0918.github.io/assets/EunJuPark_CV.pdf)** (Update on 25.02)
+<br> 📄 **[My CV](https://pej0918.github.io/assets/EunJuPark_CV.pdf)** (Update on 25.02)
 
 # 🔥 News
-- *2025.02* : &nbsp;🎉🎉 **"SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection"** is **under review** at **CVPR Workshop 2025**.
-- *2024.10* : &nbsp;🎉🎉 Two papers are accepted at **Autumn Annual Conference of IEIE**:
+- *2025.02* : &nbsp;🎉🎉 "SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection" is **under review** at **CVPR Workshop 2025**.
+- *2024.10* : &nbsp;🎉🎉 Two papers are accepted at **Autumn Annual Conference of IEIE** (Poster):
   - "An Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning"
   - "Enhancing Knowledge-based Visual Question Answering Performance through Multilayer Co-Attention and Question-Aware Prompt"  
-- *2023.11* : &nbsp;🎉🎉 **Silver Award** at **2023 Hanium ICT Mentoring** for the project **"AI Braille English-Korean Translator"**.
+- *2023.11* : &nbsp;🎉🎉 **Silver Award** at **2023 Hanium ICT Mentoring** for the project, "AI Braille English-Korean Translator".
 
 # 📝 Publications 
 - #### SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection 
