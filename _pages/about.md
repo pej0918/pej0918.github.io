@@ -37,7 +37,7 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
   <br><span style="color:MediumBlue">**Autumn Annual Conference of IEIE 2024**</span>
   <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036323)] | [[poster](https://pej0918.github.io/assets/posters/IF_poster.pdf)]
 - #### Enhancing Knowledge-based Visual Question Answering Performance through Multilayer Co-Attention and Question-Aware Prompt 
-  <span style="color:MediumBlue">**Eunju Park**</span>, Jiwon Kim2, Hankyeol Lee, Taekyung Kim, Yoorhim Cho
+  <span style="color:MediumBlue">**Eunju Park**</span>, Jiwon Kim, Hankyeol Lee, Taekyung Kim, Yoorhim Cho
   <br><span style="color:MediumBlue">**Autumn Annual Conference of IEIE 2024**</span>
   <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)] | [[poster](https://pej0918.github.io/assets/posters/multimodal_poster.pdf)]
 
@@ -49,7 +49,7 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
   <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] 
 - *2024.05 - 2024.08* : Question-Aware Prompting and Multi-layer Co-Attention for Enhanced KB-VQA
   <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)]
-- *2024.04 - 2024.08* : Improving One-Class Anomaly Detection for Robustness
+- *2024.04 - 2024.10* : Improving One-Class Anomaly Detection for Robustness
   <br> [[code](https://github.com/pej0918/SK-RD4AD)]
 
 
