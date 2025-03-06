@@ -31,7 +31,7 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 # 📝 Publications 
 - #### SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection 
   <span style="color:MediumBlue">**Eunju Park**</span>, TaeKyung Kim, MinJu Kim, HoJun Lee, GilJun Lee
-  <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review) | [[code]](https://github.com/pej0918/SK-RD4AD)]
+  <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review) | [[code](https://github.com/pej0918/SK-RD4AD)]
 - #### Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning 
   <span style="color:MediumBlue">**Eunju Park**</span>, Youngseo Hwang, Junsub Kim, Heejae Yang
   <br><span style="color:MediumBlue">**Autumn Annual Conference of IEIE 2024**</span>
