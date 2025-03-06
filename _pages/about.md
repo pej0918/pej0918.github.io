@@ -30,16 +30,26 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 
 # 📝 Publications 
 - #### SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection 
-  <span style="color:MediumBlue">**E.-j. Park**</span>, T. Kim, M. Kim, H. Lee, G.-j. Lee
+  <span style="color:MediumBlue">**Eunju Park**</span>, TaeKyung Kim, MinJu Kim, HoJun Lee, GilJun Lee
   <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review) | [[code]](https://github.com/pej0918/Robust-AV-Classification)
+- #### Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning 
+  <span style="color:MediumBlue">**Eunju Park**</span>, Youngseo Hwang, Junsub Kim, Heejae Yang
+  <br><span style="color:MediumBlue">**Autumn Annual Conference of IEIE 2024**</span>
+  <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036323)] | [[poster](https://pej0918.github.io/assets/posters/IF_poster.pdf)]
+- #### Enhancing Q-Former for Visual Question Answering with Multi-layer Co-Attention and Question-Aware Prompts 
+  <span style="color:MediumBlue">**Eunju Park**</span>, Jiwon Kim2, Hankyeol Lee, Taekyung Kim, Yoorhim Cho
+  <br><span style="color:MediumBlue">**Autumn Annual Conference of IEIE 2024**</span>
+  <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)] | [[poster](https://pej0918.github.io/assets/posters/multimodal_poster.pdf)]
 
-# 💬 Research Projects 
+
+# 💬 Research 
 - *2024.11 - 2025.01* : Robust Audio-Visual Classification End-to-End Framework under Uncertain Missing Modality using Prompt Learning
   <br> [[code](https://github.com/pej0918/Robust-AV-Classification)] 
 - *2024.07 - 2024.10* : Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning
-  <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036323)] | [[poster](https://pej0918.github.io/assets/posters/IF_poster.pdf)]
+  <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] 
 - *2024.05 - 2024.08* : Enhancing Q-Former for Visual Question Answering with Multi-layer Co-Attention and Question-Aware Prompts
-  <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)] | [[poster](https://pej0918.github.io/assets/posters/multimodal_poster.pdf)]
+  <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)]
+
 
 # 🏆 Honors and Awards
 - *2023.11*, **Silver Award**, 2023 Hanium ICT Mentoring, for "AI Braille English-Korean Translator"
