@@ -31,12 +31,12 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 # 📝 Publications 
 - #### SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection 
   <span style="color:MediumBlue">**Eunju Park**</span>, TaeKyung Kim, MinJu Kim, HoJun Lee, GilJun Lee
-  <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review) | [[code]](https://github.com/pej0918/Robust-AV-Classification)
+  <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review) | [[code]](https://github.com/pej0918/SK-RD4AD)]
 - #### Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning 
   <span style="color:MediumBlue">**Eunju Park**</span>, Youngseo Hwang, Junsub Kim, Heejae Yang
   <br><span style="color:MediumBlue">**Autumn Annual Conference of IEIE 2024**</span>
   <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036323)] | [[poster](https://pej0918.github.io/assets/posters/IF_poster.pdf)]
-- #### Enhancing Q-Former for Visual Question Answering with Multi-layer Co-Attention and Question-Aware Prompts 
+- #### Enhancing Knowledge-based Visual Question Answering Performance through Multilayer Co-Attention and Question-Aware Prompt 
   <span style="color:MediumBlue">**Eunju Park**</span>, Jiwon Kim2, Hankyeol Lee, Taekyung Kim, Yoorhim Cho
   <br><span style="color:MediumBlue">**Autumn Annual Conference of IEIE 2024**</span>
   <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)] | [[poster](https://pej0918.github.io/assets/posters/multimodal_poster.pdf)]
@@ -45,10 +45,12 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 # 💬 Research 
 - *2024.11 - 2025.01* : Robust Audio-Visual Classification End-to-End Framework under Uncertain Missing Modality using Prompt Learning
   <br> [[code](https://github.com/pej0918/Robust-AV-Classification)] 
-- *2024.07 - 2024.10* : Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning
+- *2024.07 - 2024.10* : Multimodal Template-Based Learning for Few-Shot Visual Grounding
   <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] 
-- *2024.05 - 2024.08* : Enhancing Q-Former for Visual Question Answering with Multi-layer Co-Attention and Question-Aware Prompts
+- *2024.05 - 2024.08* : Question-Aware Prompting and Multi-layer Co-Attention for Enhanced KB-VQA
   <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)]
+- *2024.04 - 2024.08* : Improving One-Class Anomaly Detection for Robustness
+  <br> [[code](https://github.com/pej0918/SK-RD4AD)]
 
 
 # 🏆 Honors and Awards
