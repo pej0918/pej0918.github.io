@@ -46,11 +46,11 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 #### 🏢 Domestic
 
 - #### Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning 
-  <span style="color:MediumBlue">Eunju Park</span>*, Youngseo Hwang*, Junsub Kim*, Heejae Yang
+  <span style="color:MediumBlue">Eunju Park* </span>,Youngseo Hwang* , Junsub Kim* , Heejae Yang
   <br><span style="color:MediumBlue">**Autumn Annual Conference of IEIE 2024**</span>
   <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036323)] | [[poster](https://pej0918.github.io/assets/posters/IF_poster.pdf)]
 - #### Enhancing Knowledge-based Visual Question Answering Performance through Multilayer Co-Attention and Question-Aware Prompt 
-  <span style="color:MediumBlue">Eunju Park</span>*, Jiwon Kim*, Hankyeol Lee*, Taekyung Kim*, Yoorhim Cho
+  <span style="color:MediumBlue">Eunju Park* </span>, Jiwon Kim* , Hankyeol Lee* , Taekyung Kim* , Yoorhim Cho
   <br><span style="color:MediumBlue">**Autumn Annual Conference of IEIE 2024**</span>
   <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)] | [[poster](https://pej0918.github.io/assets/posters/multimodal_poster.pdf)]
 
