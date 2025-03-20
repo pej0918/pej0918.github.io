@@ -53,7 +53,7 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
   <br><span style="color:MediumBlue">**Autumn Annual Conference of IEIE 2024**</span>
   <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)] | [[poster](https://pej0918.github.io/assets/posters/multimodal_poster.pdf)]
 
-<br><br> † : corresponding author
+<br> † : corresponding author
 
 # 💬 Research 
 - *2024.11 - 2025.01* : Robust Audio-Visual Classification End-to-End Framework under Uncertain Missing Modality using Prompt Learning
