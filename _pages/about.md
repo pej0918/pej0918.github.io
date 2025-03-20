@@ -32,7 +32,7 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 <div class='paper-box'><div class='paper-box-image'><div><img src='https://pej0918.github.io/assets/imgs/image.png' alt="sym" width="100%"></div></div>
  <div class='paper-box-text' markdown="1">
 
- 
+#### SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection 
 <span style="color:MediumBlue">**Eunju Park**</span>, TaeKyung Kim, MinJu Kim, HoJun Lee, GilJun Lee
 <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review)
  
