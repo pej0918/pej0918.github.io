@@ -37,7 +37,7 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review)
  
 [[code](https://github.com/pej0918/SK-RD4AD)]
-**Skip-Connected Reverse Distillation for Anomaly Detection (SK-RD4AD)** enhances the RD4AD framework by introducing **non-aligned skip connections**, preserving multi-scale anomaly features. This approach improves anomaly localization and detection by mitigating feature loss in deep distillation. SK-RD4AD achieves strong performance on **MVTec-AD, VISA, and VAD datasets**, demonstrating robust generalization across various anomaly types. Its efficient inference speed makes it practical for real-world applications.
+<br>**Skip-Connected Reverse Distillation for Anomaly Detection (SK-RD4AD)** enhances the RD4AD framework by introducing **non-aligned skip connections**, preserving multi-scale anomaly features. This approach improves anomaly localization and detection by mitigating feature loss in deep distillation. SK-RD4AD achieves strong performance on **MVTec-AD, VISA, and VAD datasets**, demonstrating robust generalization across various anomaly types. Its efficient inference speed makes it practical for real-world applications.
  </div>
  </div>
  
