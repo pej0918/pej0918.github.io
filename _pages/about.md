@@ -42,9 +42,9 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 - It achieves strong performance on **MVTec-AD, VISA, and VAD** while maintaining efficient inference and robust generalization.
  </div>
  </div>
-
- #### 🏛 Domestic
  
+
+ #### 🏢 Domestic
 - #### Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning 
   <span style="color:MediumBlue">**Eunju Park**</span>, Youngseo Hwang, Junsub Kim, Heejae Yang
   <br><span style="color:MediumBlue">**Autumn Annual Conference of IEIE 2024**</span>
