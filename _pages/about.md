@@ -33,22 +33,23 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 <div class='paper-box'><div class='paper-box-image'><div><img src='https://pej0918.github.io/assets/imgs/image.png' alt="sym" width="100%"></div></div>
  <div class='paper-box-text' markdown="1">
 
-##### SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection 
+#### SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection 
 <span style="color:MediumBlue">**Eunju Park**</span>, TaeKyung Kim, MinJu Kim, HoJun Lee, GilJun Lee
 <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review)
  
-[[code](https://github.com/pej0918/SK-RD4AD)]
-<br>**SK-RD4AD** introduces **non-aligned skip connections** to RD4AD, enhancing anomaly localization by preserving multi-scale features. It achieves strong performance on **MVTec-AD, VISA, and VAD** while maintaining efficient inference and robust generalization.
+[**code**](https://github.com/pej0918/SK-RD4AD)
+- **SK-RD4AD** introduces **non-aligned skip connections** to RD4AD, enhancing anomaly localization by preserving multi-scale features.
+- It achieves strong performance on **MVTec-AD, VISA, and VAD** while maintaining efficient inference and robust generalization.
  </div>
  </div>
 
  #### 🏛 Domestic
  
-- ##### Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning 
+- #### Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning 
   <span style="color:MediumBlue">**Eunju Park**</span>, Youngseo Hwang, Junsub Kim, Heejae Yang
   <br><span style="color:MediumBlue">**Autumn Annual Conference of IEIE 2024**</span>
   <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036323)] | [[poster](https://pej0918.github.io/assets/posters/IF_poster.pdf)]
-- ##### Enhancing Knowledge-based Visual Question Answering Performance through Multilayer Co-Attention and Question-Aware Prompt 
+- #### Enhancing Knowledge-based Visual Question Answering Performance through Multilayer Co-Attention and Question-Aware Prompt 
   <span style="color:MediumBlue">**Eunju Park**</span>, Jiwon Kim, Hankyeol Lee, Taekyung Kim, Yoorhim Cho
   <br><span style="color:MediumBlue">**Autumn Annual Conference of IEIE 2024**</span>
   <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)] | [[poster](https://pej0918.github.io/assets/posters/multimodal_poster.pdf)]
