@@ -29,6 +29,18 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 - *2023.11* : &nbsp;🎉🎉 **Silver Award** at **2023 Hanium ICT Mentoring** for the project, "AI Braille English-Korean Translator".
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><img src='https://pej0918.github.io/assets/imgs/image.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box-text' markdown="1">
+
+ 
+<span style="color:MediumBlue">**Eunju Park**</span>, TaeKyung Kim, MinJu Kim, HoJun Lee, GilJun Lee
+<br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review)
+ 
+[[code](https://github.com/pej0918/SK-RD4AD)]
+**Skip-Connected Reverse Distillation for Anomaly Detection (SK-RD4AD)** enhances the RD4AD framework by introducing **non-aligned skip connections**, preserving multi-scale anomaly features. This approach improves anomaly localization and detection by mitigating feature loss in deep distillation. SK-RD4AD achieves strong performance on **MVTec-AD, VISA, and VAD datasets**, demonstrating robust generalization across various anomaly types. Its efficient inference speed makes it practical for real-world applications.
+ </div>
+ </div>
+ 
 - #### SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection 
   <span style="color:MediumBlue">**Eunju Park**</span>, TaeKyung Kim, MinJu Kim, HoJun Lee, GilJun Lee
   <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review) | [[code](https://github.com/pej0918/SK-RD4AD)]
