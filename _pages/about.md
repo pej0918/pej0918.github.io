@@ -43,6 +43,19 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
  </div>
  </div>
  
+<div class='paper-box'><div class='paper-box-image'><div><img src='https://pej0918.github.io/assets/imgs/IMG_5099.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box-text' markdown="1">
+
+#### Prompt the Missing: Efficient and Robust Audio-Visual Classification under Uncertain Modalities 
+<span style="color:MediumBlue">**Eunju Park**</span>
+<br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review)
+ 
+- Code will be released..
+- **Prompt the Missing** introduces a lightweight, **robust framework** for audio-visual classification under **uncertain missing modalities** using input- and attention-level prompt tokens.
+- It achieves strong generalization, up to **96% faster training**, and **+10.4% accuracy** gain under corrupted conditions without modifying the backbone.
+ </div>
+ </div>
+ 
 #### 🏢 Domestic
 - #### Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning 
   <span style="color:MediumBlue">Eunju Park* </span>,Youngseo Hwang* , Junsub Kim* , Heejae Yang†
