@@ -18,5 +18,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "Professional Activities"
+    url: "/#-professional-activities"
+    
   - title: "Internships"
     url: "/#-internships"
