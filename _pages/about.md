@@ -90,7 +90,7 @@ Code will be released..
 
 # 🧠 Professional Activities
 - #### Reviewer
-  <br> IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) Workshop, TMM-OpenWorld 2025
+  IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) Workshop, TMM-OpenWorld 2025
 
 # 💻 Internships
 - *2024.07 - 2024.08*, Language Intelligence Lab @ [ETRI](https://www.etri.re.kr/eng/main/main.etri)
