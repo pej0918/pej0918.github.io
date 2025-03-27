@@ -84,9 +84,13 @@ Code will be released..
   <br> [[code](https://github.com/pej0918/E-yes)] | [[video](https://youtu.be/nr0ZrB_GpGo?si=oWqlMCBNwgyu7U2V)]
 - *2023.10*, **Grand Prize**, Korean Information Processing Society Conference (ACK 2023), for "Development of a Braille Translation and Document Summarization System for the Visually Impaired Education"
   <br> [[paper](https://koreascience.kr/article/CFKO202333855044754.page)]
-  
+
 # 📖 Educations
 - *2020.03 - 2025.02* , **Ewha Womans University**, Bachelor of Mathematics and Computer Science
+
+# 🧠 Professional Activities
+- #### Reviewer
+  <br> IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) Workshop, TMM-OpenWorld 2025
 
 # 💻 Internships
 - *2024.07 - 2024.08*, Language Intelligence Lab @ [ETRI](https://www.etri.re.kr/eng/main/main.etri)
