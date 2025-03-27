@@ -51,7 +51,7 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 <span style="color:MediumBlue">**Eunju Park**</span>
 <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review)
  
-Code will be released..
+Code will be released upon acceptance.
 - **Prompt the Missing** introduces a lightweight, **robust framework** for audio-visual classification under **uncertain missing modalities** using input- and attention-level prompt tokens.
 - It achieves strong generalization, up to **96% faster training**, and **+10.4% accuracy** gain under corrupted conditions without modifying the backbone.
  </div>
