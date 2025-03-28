@@ -22,7 +22,7 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 <br> 📄 **[My CV](https://pej0918.github.io/assets/EunJuPark_CV.pdf)** (Update on 25.02)
 
 # 🔥 News
-- *2025.03* : &nbsp;🎉🎉 "Prompt the Missing: Efficient and Robust Audio-Visual Classification under Uncertain Modalities" is **under review** at **CVPR Workshop 2025**.
+- *2025.03* : &nbsp;🎉🎉 "Prompt the Missing" is **under review** at **CVPR Workshop 2025**.
 - *2025.02* : &nbsp;🎉🎉 "SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection" is **under review** at **CVPR Workshop 2025**.
 - *2024.10* : &nbsp;🎉🎉 Two papers are accepted at **Autumn Annual Conference of IEIE** (Poster):
   - "An Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning"
