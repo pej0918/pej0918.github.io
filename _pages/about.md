@@ -36,7 +36,7 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 
 #### SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection 
 <span style="color:MediumBlue">**Eunju Park**</span>, TaeKyung Kim, MinJu Kim, HoJun Lee, GilJun Lee
-<br><span style="color:MediumBlue">**CVPR Workshop 2025**</span> (Under Review)
+<br><span style="color:MediumBlue">**CVPR Workshop 2025**</span>
  
 [**code**](https://github.com/pej0918/SK-RD4AD)
 - **SK-RD4AD** introduces **non-aligned skip connections** to RD4AD, enhancing anomaly localization by preserving multi-scale features.
