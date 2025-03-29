@@ -64,7 +64,7 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 - *2024.05 - 2024.08* : Question-Aware Prompting and Multi-layer Co-Attention for Enhanced KB-VQA
   <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)]
 - *2024.04 - 2024.10* : Improving One-Class Anomaly Detection for Robustness
-  <br> [[code](https://github.com/pej0918/SK-RD4AD)]
+  <br> [[code](https://github.com/2024-Hanium-Project/VisionAI_AD)]
 
 
 # 🏆 Honors and Awards
