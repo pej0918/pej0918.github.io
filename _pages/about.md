@@ -19,7 +19,7 @@ redirect_from:
 Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer Science from [Ewha Womans University](https://www.ewha.ac.kr/ewha/index.do) and am preparing to enter graduate school in the second half of 2025.
 <br>I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively. My research interests include <Strong>Multimodal Learning, Multimodal Hallucination, Anomaly Detection, Computer Vision, Generative Models and Vision-Language Models</Strong>. 
 <br>
-<br> 📄 **[My CV](https://pej0918.github.io/assets/EunJuPark_CV.pdf)** (Update on 25.02)
+<br> 📄 **[My CV](https://pej0918.github.io/assets/EunJuPark_CV.pdf)** (Update on 25.03)
 
 # 🔥 News
 - *2025.03* : &nbsp;🎉🎉 "SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection" was **accepted** at **CVPR Workshop 2025**.
