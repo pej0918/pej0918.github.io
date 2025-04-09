@@ -31,7 +31,7 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 
 # 📝 Publications 
 #### 🌍 Abroad 
-<div class='paper-box'><div class='paper-box-image'><div><img src='https://pej0918.github.io/assets/imgs/image_skrd4ad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='https://pej0918.github.io/assets/imgs/IMG_5209.png' alt="sym" width="100%"></div></div>
  <div class='paper-box-text' markdown="1">
 
 #### SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection 
@@ -44,7 +44,7 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
  </div>
  </div>
 
- <div class='paper-box'><div class='paper-box-image'><div><img src='https://pej0918.github.io/assets/imgs/image_prompt.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box'><div class='paper-box-image'><div><img src='https://pej0918.github.io/assets/imgs/IMG_5210.png' alt="sym" width="100%"></div></div>
  <div class='paper-box-text' markdown="1">
 
 #### Prompt the Missing: Efficient and Robust Audio-Visual Classification under Uncertain Modalities
