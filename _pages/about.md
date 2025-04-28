@@ -22,7 +22,6 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 <br> 📄 **[My CV](https://pej0918.github.io/assets/EunJuPark_CV.pdf)** (Update on 25.04)
 
 # 🔥 News
-- *2025.04* : &nbsp;🎉🎉 "Prompt the Missing" was **accepted** at **CVPR Workshop 2025**.
 - *2025.03* : &nbsp;🎉🎉 "SK-RD4AD" was **accepted** at **CVPR Workshop 2025**.
 - *2024.10* : &nbsp;🎉🎉 Two papers are accepted at **Autumn Annual Conference of IEIE** (Poster):
   - "An Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning"
@@ -41,19 +40,6 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 [**code**](https://github.com/pej0918/SK-RD4AD)
 - **SK-RD4AD** introduces **non-aligned skip connections** to RD4AD, enhancing anomaly localization by preserving multi-scale features.
 - It achieves strong performance on **MVTec-AD, VISA, and VAD** while maintaining efficient inference and robust generalization.
- </div>
- </div>
-
- <div class='paper-box'><div class='paper-box-image'><div><img src='https://pej0918.github.io/assets/imgs/IMG_5210.png' alt="sym" width="100%"></div></div>
- <div class='paper-box-text' markdown="1">
-
-#### Prompt the Missing: Efficient and Robust Audio-Visual Classification under Uncertain Modalities
-<span style="color:MediumBlue">**Eunju Park**</span>
-<br><span style="color:MediumBlue">**CVPR Workshop 2025**</span>
- 
-[**code**](https://github.com/pej0918/Prompt-The-Missing)
-- **Prompt the Missing** introduces a dual-level prompt learning strategy to ensure robust classification under unpredictable missing modality conditions.  
-- It achieves up to **+10% accuracy improvement** over fine-tuning, with **82.3% memory reduction** and **96% faster training**.
  </div>
  </div>
  
