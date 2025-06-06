@@ -71,7 +71,7 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
   <br> [[paper](https://koreascience.kr/article/CFKO202333855044754.page)]
 
 # 📖 Educations
-- *2020.03 - 2025.02* , **Ewha Womans University**, Bachelor of Mathematics and Computer Science
+- *2020.03 - 2025.08* , **Ewha Womans University**, Bachelor of Mathematics and Computer Science
 
 # 🧠 Professional Activities
 - #### Reviewer
