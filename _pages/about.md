@@ -36,13 +36,17 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 <span style="color:MediumBlue">**Eunju Park**</span>, TaeKyung Kim, MinJu Kim, HoJun Lee, GilJun Lee
 <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span>
  
-[**code**](https://github.com/pej0918/SK-RD4AD)
+[**code**](https://github.com/pej0918/SK-RD4AD) | [[poster](https://pej0918.github.io/assets/posters/skrd4ad_poster.pdf)]
 - **SK-RD4AD** introduces **non-aligned skip connections** to RD4AD, enhancing anomaly localization by preserving multi-scale features.
 - It achieves strong performance on **MVTec-AD, VISA, and VAD** while maintaining efficient inference and robust generalization.
  </div>
  </div>
  
 #### 🏢 Domestic
+- #### Prompt Learning Based Model Training for Robust Multimodal Classification with Missing Modalities 
+  <span style="color:MediumBlue">Eunju Park* </span>, Junsub Kim* , Heejae Yang†
+  <br><span style="color:MediumBlue">**Summer Annual Conference of IEIE 2025**</span>
+  <br> [[code](https://github.com/pej0918/Robust-AV-Classification)] | [[poster](https://pej0918.github.io/assets/posters/robust_poster.pdf)]
 - #### Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning 
   <span style="color:MediumBlue">Eunju Park* </span>,Youngseo Hwang* , Junsub Kim* , Heejae Yang†
   <br><span style="color:MediumBlue">**Autumn Annual Conference of IEIE 2024**</span>
