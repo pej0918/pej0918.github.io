@@ -36,7 +36,7 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 <span style="color:MediumBlue">**Eunju Park**</span>, TaeKyung Kim, MinJu Kim, HoJun Lee, GilJun Lee
 <br><span style="color:MediumBlue">**CVPR Workshop 2025**</span>
  
-[**code**](https://github.com/pej0918/SK-RD4AD) | [[poster](https://pej0918.github.io/assets/posters/skrd4ad_poster.pdf)]
+[**code**](https://github.com/pej0918/SK-RD4AD) | [**poster**](https://pej0918.github.io/assets/posters/skrd4ad_poster.pdf)
 - **SK-RD4AD** introduces **non-aligned skip connections** to RD4AD, enhancing anomaly localization by preserving multi-scale features.
 - It achieves strong performance on **MVTec-AD, VISA, and VAD** while maintaining efficient inference and robust generalization.
  </div>
