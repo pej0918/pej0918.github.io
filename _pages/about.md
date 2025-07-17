@@ -20,12 +20,6 @@ Hi there! I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer
 <br>I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively. My research interests include <Strong>Multimodal Learning, Multimodal Hallucination, Anomaly Detection, Computer Vision, Generative Models and Vision-Language Models</Strong>. 
 <br>
 
-# 🔥 News
-- *2025.03* : &nbsp;🎉🎉 "SK-RD4AD" was **accepted** at **CVPR Workshop 2025**.
-- *2024.10* : &nbsp;🎉🎉 Two papers are accepted at **Autumn Annual Conference of IEIE** (Poster):
-  - "An Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning"
-  - "Enhancing Knowledge-based Visual Question Answering Performance through Multilayer Co-Attention and Question-Aware Prompt"  
-- *2023.11* : &nbsp;🎉🎉 **Silver Award** at **2023 Hanium ICT Mentoring** for the project, "AI Braille English-Korean Translator".
 
 # 📝 Publications 
 #### 🌍 Abroad 
