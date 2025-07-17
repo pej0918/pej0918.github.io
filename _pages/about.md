@@ -16,10 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there! I'm Eunju Park.
+Hi there! I'm Eunju Park. I have a bachelor's degree in Ewha Womans University, majoring in mathematics and Computer engineering.
 <br>I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively.
-## 📚 Interests
-Multimodal Learning, Multimodal Hallucination, Anomaly Detection, Computer Vision, Generative Models and Vision-Language Models
+### 📚 Interests
+Multimodal Learning, Multimodal Hallucination, Anomaly Detection, Generative Model and Vision-Language Models
 <br>
 
 
