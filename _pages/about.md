@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 Hi there! I'm Eunju Park.
-<br>I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively. My research interests include <Strong>Multimodal Learning, Multimodal Hallucination, Anomaly Detection, Computer Vision, Generative Models and Vision-Language Models</Strong>. 
+<br>I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively.
+## 📚 Interests
+Multimodal Learning, Multimodal Hallucination, Anomaly Detection, Computer Vision, Generative Models and Vision-Language Models
 <br>
 
 
