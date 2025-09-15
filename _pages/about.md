@@ -58,12 +58,9 @@ I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer Engineeri
 - *2024.04 - 2024.10* : Enhancing One-Class Anomaly Detection Robustness through Reverse Knowledge Distillation with Skip Connections
   <br> [[code](https://github.com/2024-Hanium-Project/VisionAI_AD)]
 - *2023.08 - 2024.08* : Integrated AI Diary Platform for Text Analysis, Image Generation, Emotional Insight, and Music-Based Feedback
-- *2023.04 - 2023.10* : Design and Development of a Real-Time Voice Phishing Detection Model with User Alert System for Digitally Vulnerable Populations
-  <br> [[code](https://github.com/pej0918/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms)]
-- *2023.04 - 2023.10* : Development of a Braille Translation, Summarization, and Text-to-Speech Platform for Enhancing Visually Impaired Education
-  <br> [[code](https://github.com/pej0918/E-yes)]
-- *2022.04 - 2022.10* : AI-Driven Machine Learning Framework for Predictive Wildfire Risk Assessment and Interactive Web-Based Visualization
-  <br> [[code](https://github.com/pej0918/2022_Hanium_Project)]
+- *2023.04 - 2023.10* : Design and Development of a Real-Time Voice Phishing Detection Model with User Alert System for Digitally Vulnerable Populations | [[code](https://github.com/pej0918/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms)]
+- *2023.04 - 2023.10* : Development of a Braille Translation, Summarization, and Text-to-Speech Platform for Enhancing Visually Impaired Education | [[code](https://github.com/pej0918/E-yes)]
+- *2022.04 - 2022.10* : AI-Driven Machine Learning Framework for Predictive Wildfire Risk Assessment and Interactive Web-Based Visualization | [[code](https://github.com/pej0918/2022_Hanium_Project)]
 
 # 🏆 Honors and Awards
 - *2023.11*, **Silver Award**, 2023 Hanium ICT Mentoring, for "AI Braille English-Korean Translator"
