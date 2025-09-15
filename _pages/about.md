@@ -52,16 +52,18 @@ I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer Engineeri
   <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)] | [[poster](https://pej0918.github.io/assets/posters/multimodal_poster.pdf)]
 
 
-# 💬 Research 
+# 💬 Projects
 - *2024.11 - 2025.01* : Robust Audio-Visual Classification End-to-End Framework under Uncertain Missing Modality using Prompt Learning
   <br> [[code](https://github.com/pej0918/Robust-AV-Classification)] 
-- *2024.07 - 2024.10* : Multimodal Template-Based Learning for Few-Shot Visual Grounding
-  <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] 
-- *2024.05 - 2024.08* : Question-Aware Prompting and Multi-layer Co-Attention for Enhanced KB-VQA
-  <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)]
-- *2024.04 - 2024.10* : Improving One-Class Anomaly Detection for Robustness
+- *2024.04 - 2024.10* : Enhancing One-Class Anomaly Detection Robustness through Reverse Knowledge Distillation with Skip Connections
   <br> [[code](https://github.com/2024-Hanium-Project/VisionAI_AD)]
-
+- *2023.04 - 2024.10* : Design and Deployment of a Real-Time Voice Phishing Detection Model and Alert System for Digitally Vulnerable Populations
+  <br> [[code](https://github.com/pej0918/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms)]
+- *2023.04 - 2024.10* : Development of an AI-Based Braille Translation, Summarization, and Text-to-Speech Platform for Visually Impaired Education
+  <br> [[code](https://github.com/pej0918/E-yes)]
+- *2023.08 - 2024.08* : Development of a Web-Based AI Diary System with Automated Text Analysis, Image Generation, Emotional Assessment, and Music Feedback
+- *2022.04 - 2022.10* : AI-Driven Machine Learning Framework for Predictive Wildfire Risk Assessment and Interactive Web-Based Visualization
+  <br> [[code](https://github.com/pej0918/2022_Hanium_Project)]
 
 # 🏆 Honors and Awards
 - *2023.11*, **Silver Award**, 2023 Hanium ICT Mentoring, for "AI Braille English-Korean Translator"
