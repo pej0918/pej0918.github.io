@@ -31,7 +31,7 @@ I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer Engineeri
 
 #### SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection 
 <span style="color:MediumBlue">**Eunju Park**</span>, TaeKyung Kim, MinJu Kim, HoJun Lee, GilJun Lee
-<br> _Visual Anomaly and Novelty Detection- 3rd Edition (VAND 3.0), IEEE / CVF Computer Vision and Pattern Recognition Conference Workshop (CVPRW), 2025_ 
+<br> _Visual Anomaly and Novelty Detection- 3rd Edition (VAND 3.0), IEEE / CVF Computer Vision and Pattern Recognition Conference Workshop_ <strong> _(CVPRW)_<strong> _, 2025_ 
 <!-- <span style="color:MediumBlue">**CVPR Workshop 2025**</span> -->
  
 [**code**](https://github.com/pej0918/SK-RD4AD) | [**paper**](https://openaccess.thecvf.com/content/CVPR2025W/VAND/html/Park_SK-RD4AD__Skip-Connected_Reverse_Distillation_For_Robust_One-Class_Anomaly_Detection_CVPRW_2025_paper.html) | [**poster**](https://pej0918.github.io/assets/posters/skrd4ad_poster.pdf)
