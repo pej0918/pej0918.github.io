@@ -46,13 +46,13 @@ I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer Engineeri
 #### 🏢 Domestic
 - #### Prompt Learning Based Model Training for Robust Multimodal Classification with Missing Modalities
   <span style="color:MediumBlue">Eunju Park* </span>, Junsub Kim*, Heejae Yang†  
-  <br><span style="font-size: 0.9em; color: #555;"><i>Summer Annual Conference of IEIE, 2025</i></span>  
-  <br> [[code](https://github.com/pej0918/Robust-AV-Classification)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12331870)] | [[poster](https://pej0918.github.io/assets/posters/robust_poster.pdf)]
+  <span style="font-size: 0.9em; color: #555;"><i>Summer Annual Conference of IEIE, 2025</i></span>  
+  [[code](https://github.com/pej0918/Robust-AV-Classification)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12331870)] | [[poster](https://pej0918.github.io/assets/posters/robust_poster.pdf)]
 
 - #### Research on an Effective Model Architecture for Multimodal Few-shot Visual Grounding without Fine-Tuning  
   <span style="color:MediumBlue">Eunju Park* </span>, Youngseo Hwang*, Junsub Kim*, Heejae Yang†  
-  <br><span style="font-size: 0.9em; color: #555;"><i>Autumn Annual Conference of IEIE, 2024</i></span>  
-  <br> [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036323)] | [[poster](https://pej0918.github.io/assets/posters/IF_poster.pdf)]
+  <span style="font-size: 0.9em; color: #555;"><i>Autumn Annual Conference of IEIE, 2024</i></span>  
+  [[code](https://github.com/pej0918/Multimodal-FS-VisualGrounding)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036323)] | [[poster](https://pej0918.github.io/assets/posters/IF_poster.pdf)]
 
 - #### Enhancing Knowledge-based Visual Question Answering Performance through Multilayer Co-Attention and Question-Aware Prompt  
   <span style="color:MediumBlue">Eunju Park* </span>, Jiwon Kim*, Hankyeol Lee*, Taekyung Kim*, Yoorhim Cho†  
