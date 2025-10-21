@@ -24,7 +24,7 @@ I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer Engineeri
 
 # 📝 Publications 
 #### 🌍 Abroad 
-<div class='paper-box'><div class='paper-box-image'><div><img src='https://pej0918.github.io/assets/imgs/IMG_5209.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW</div><img src='https://pej0918.github.io/assets/imgs/IMG_5209.png' alt="sym" width="100%"></div></div>
  <div class='paper-box-text' markdown="1">
 
 #### SK-RD4AD : Skip-Connected Reverse Distillation for Robust One-Class Anomaly Detection 
