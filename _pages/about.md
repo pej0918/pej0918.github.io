@@ -56,8 +56,8 @@ I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer Engineeri
 
 - #### Enhancing Knowledge-based Visual Question Answering Performance through Multilayer Co-Attention and Question-Aware Prompt  
   <span style="color:MediumBlue">Eunju Park* </span>, Jiwon Kim*, Hankyeol Lee*, Taekyung Kim*, Yoorhim Cho†  
-  <br><span style="font-size: 0.9em; color: #555;"><i>Autumn Annual Conference of IEIE, 2024</i></span>  
-  <br> [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)] | [[poster](https://pej0918.github.io/assets/posters/multimodal_poster.pdf)]
+  <span style="font-size: 0.9em; color: #555;"><i>Autumn Annual Conference of IEIE, 2024</i></span>  
+  [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)] | [[poster](https://pej0918.github.io/assets/posters/multimodal_poster.pdf)]
 
 # 💬 Projects
 - *2024.11 - 2025.01* : Robust Audio-Visual Classification End-to-End Framework under Uncertain Missing Modality using Prompt Learning
