@@ -54,7 +54,7 @@ I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer Engineeri
 
 # 💬 Projects
 - *2024.11 - 2025.01* : Robust Audio-Visual Classification End-to-End Framework under Uncertain Missing Modality using Prompt Learning | [[code](https://github.com/pej0918/Robust-AV-Classification)] 
-- *2024.04 - 2024.10* : Enhancing One-Class Anomaly Detection Robustness through Reverse Knowledge Distillation with Skip Connections | [[code](https://github.com/2024-Hanium-Project/VisionAI_AD)]
+- *2024.04 - 2024.10* : Enhancing One-Class Anomaly Detection Robustness through Reverse Knowledge Distillation with Non-corresponding Skip Connections | [[code](https://github.com/2024-Hanium-Project/VisionAI_AD)]
 - *2023.08 - 2024.08* : Integrated AI Diary Platform for Text Analysis, Image Generation, Emotional Insight, and Music-Based Feedback
 - *2023.04 - 2023.10* : Design and Development of a Real-Time Voice Phishing Detection Model with User Alert System for Digitally Vulnerable Population | [[code](https://github.com/pej0918/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms)]
 - *2023.04 - 2023.10* : Development of a Braille Translation, Summarization, and Text-to-Speech Platform for Enhancing Visually Impaired Education | [[code](https://github.com/pej0918/E-yes)]
