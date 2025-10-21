@@ -35,8 +35,8 @@ I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer Engineeri
 <!-- <span style="color:MediumBlue">**CVPR Workshop 2025**</span> -->
  
 [**code**](https://github.com/pej0918/SK-RD4AD) | [**paper**](https://openaccess.thecvf.com/content/CVPR2025W/VAND/html/Park_SK-RD4AD__Skip-Connected_Reverse_Distillation_For_Robust_One-Class_Anomaly_Detection_CVPRW_2025_paper.html) | [**poster**](https://pej0918.github.io/assets/posters/skrd4ad_poster.pdf)
-- **SK-RD4AD** introduces **non-aligned skip connections** to RD4AD, enhancing anomaly localization by preserving multi-scale features.
-- It achieves strong performance on **MVTec-AD, VISA, and VAD** while maintaining efficient inference and robust generalization.
+<!-- - **SK-RD4AD** introduces **non-aligned skip connections** to RD4AD, enhancing anomaly localization by preserving multi-scale features.
+- It achieves strong performance on **MVTec-AD, VISA, and VAD** while maintaining efficient inference and robust generalization. -->
  </div>
  </div>
  
