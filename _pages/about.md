@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer Engineering from [Ewha Womans University](https://www.ewha.ac.kr/ewha/index.do).
-<br>I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively.
-<br>My research interests include <Strong>Multimodal Learning, Multimodal Hallucination, Anomaly Detection, Generative Models and Vision-Language Models</Strong>. 
+<br>I am passionate about artificial intelligence and its potential to bridge the gap between modalities, enabling machines to understand and interact with the world more intuitively. My research interests include <Strong>Multimodal Learning, Multimodal Hallucination, Anomaly Detection, Generative Models and Vision-Language Models</Strong>. 
+<br> I’d love to connect and talk about research, so feel free to reach out via email! 😄
 <br>
 
 
