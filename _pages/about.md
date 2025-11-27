@@ -88,3 +88,4 @@ I'm Eunju Park. I hold a Bachelor's degree in Mathematics and Computer Engineeri
 
 # 💻 Internships
 - *2024.07 - 2024.08*, Language Intelligence Lab @ [ETRI](https://www.etri.re.kr/eng/main/main.etri)
+- *2025.11 - 2026.02*, [Artificial General Intelligence Lab](https://agile.ewha.ac.kr/) @ [EWHA](https://ai.ewha.ac.kr/ai/index.do)
