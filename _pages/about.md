@@ -45,7 +45,7 @@ I'm Eunju Park. I received my Bachelor’s degree in Mathematics and Computer En
 
 #### 🏢 Domestic
 - #### Prompt Learning Based Model Training for Robust Multimodal Classification with Missing Modalities
-  <span style="color:MediumBlue">Junsub Kim* </span>, Eunju Park* , Heejae Yang†  
+  Junsub Kim* , <span style="color:MediumBlue">Eunju Park* </span> , Heejae Yang†  
   <span style="font-size: 0.9em; color: #555;"><i>Summer Annual Conference of IEIE, 2025</i></span>  
   [[code](https://github.com/pej0918/Robust-AV-Classification)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12331870)] | [[poster](https://pej0918.github.io/assets/posters/robust_poster.pdf)]
 
