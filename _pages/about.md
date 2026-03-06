@@ -54,20 +54,6 @@ I'm Eunju Park. I received my Bachelor’s degree in Mathematics and Computer En
   <span style="font-size: 0.9em; color: #555;"><i>Autumn Annual Conference of IEIE, 2024</i></span>  
   [[code](https://github.com/pej0918/Enhanced-QFormer-VQA)] | [[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036380)] | [[poster](https://pej0918.github.io/assets/posters/multimodal_poster.pdf)]
 
-# 💬 Projects
-- *2024.11 - 2025.01* : Robust Audio-Visual Classification End-to-End Framework under Uncertain Missing Modality using Prompt Learning
-  <br> [[code](https://github.com/pej0918/Robust-AV-Classification)] 
-- *2024.04 - 2024.10* : Enhancing One-Class Anomaly Detection Robustness through Reverse Knowledge Distillation with Skip Connections
-  <br> [[code](https://github.com/2024-Hanium-Project/VisionAI_AD)]
-- *2023.08 - 2024.08* : Integrated AI Diary Platform for Text Analysis, Image Generation, Emotional Insight, and Music-Based Feedback
-- *2023.04 - 2023.10* : Design and Development of a Real-Time Voice Phishing Detection Model with User Alert System for Digitally Vulnerable Population
-  <br> [[code](https://github.com/pej0918/AI_Voice_Phishing_Detection_Solution_Utilizing_NLP_Algorithms)]
-- *2023.04 - 2023.10* : Development of a Braille Translation, Summarization, and Text-to-Speech Platform for Enhancing Visually Impaired Education
-  <br> [[code](https://github.com/pej0918/E-yes)]
-- *2022.04 - 2022.10* : AI-Driven Machine Learning Framework for Predictive Wildfire Risk Assessment and Interactive Web-Based Visualization
-  <br> [[code](https://github.com/pej0918/2022_Hanium_Project)]
-
-
 # 🏆 Honors and Awards
 - *2023.11*, **Silver Award**, 2023 Hanium ICT Mentoring, for "AI Braille English-Korean Translator"
   <br> [[code](https://github.com/pej0918/E-yes)] | [[video](https://youtu.be/nr0ZrB_GpGo?si=oWqlMCBNwgyu7U2V)]
@@ -77,10 +63,6 @@ I'm Eunju Park. I received my Bachelor’s degree in Mathematics and Computer En
 # 📖 Educations
 - *2020.03 - 2025.08* , **Ewha Womans University**, Bachelor of Mathematics and Computer Science
 - *2026.03 - present* , **Ewha Womans University**, Master’s Student in the Department of Artificial Intelligence Software
-
-# 🧠 Professional Activities
-- #### Reviewer
-  IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) Workshop, TMM-OpenWorld 2025
 
 # 💻 Internships
 - *2024.07 - 2024.08*, Language Intelligence Lab @ [ETRI](https://www.etri.re.kr/eng/main/main.etri)
